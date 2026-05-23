@@ -37,17 +37,7 @@ The primary business objectives of this project were:
 ---
 
 # 📂 Dataset
-
-The dataset contains operational supply chain transaction data including:
-
-| Domain | Columns |
-|---|---|
-| Orders | order_id, order_date |
-| Products | product, category |
-| Sales | sales, quantity, profit |
-| Shipping | shipping_date, shipping_delay |
-| Operations | delivery_status, late_risk |
-| Geography | region |
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
 The data was processed and transformed into an analytics-ready format for SQL querying and dashboard reporting.
 
@@ -168,7 +158,7 @@ Business Insights & Recommendations
 
 ---
 
-# 📈 Dashboards Developed
+# 📈 Dashboards 
 
 ## 📄 Executive Overview Dashboard
 - Revenue & Profit KPIs
@@ -193,10 +183,22 @@ Business Insights & Recommendations
 - Operational KPI Tracking
 
 ---
+# 🖼️ Dashboard Preview
 
-## 🖥️ Dashboard Preview
+## Executive Overview
+![Executive Dashboard](Images/dashboard_overview.png)
 
- <img width="1457" height="805" alt="" src="https://github.com/user-attachments/assets/4e768a0a-3907-469a-aa39-ce5666fff8fe" />
+---
+
+## ABC Inventory Dashboard
+![ABC Dashboard](Images/abc_dashboard.png)
+
+---
+
+## Shipping Performance Dashboard
+![Shipping Dashboard](Images/shipping_dashboard.png)
+
+---
 
 # 🧠 DAX Measures Developed
 
