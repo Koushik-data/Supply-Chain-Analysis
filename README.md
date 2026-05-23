@@ -186,17 +186,22 @@ Business Insights & Recommendations
 # 🖼️ Dashboard Preview
 
 ## Executive Overview
-![Executive Dashboard](Images/dashboard_overview.png)
+![Executive Dashboard](https://github.com/Koushik-data/Supply-Chain-Analysis/blob/main/images/overview.png)
+
+---
+
+## Monthly Trends
+![Monthly Trends Dashboard](https://github.com/Koushik-data/Supply-Chain-Analysis/blob/main/images/monthly%20trends.png)
 
 ---
 
 ## ABC Inventory Dashboard
-![ABC Dashboard](Images/abc_dashboard.png)
+![ABC Dashboard](https://github.com/Koushik-data/Supply-Chain-Analysis/blob/main/images/ABC%20Analysis.png)
 
 ---
 
 ## Shipping Performance Dashboard
-![Shipping Dashboard](Images/shipping_dashboard.png)
+![Shipping Dashboard](https://github.com/Koushik-data/Supply-Chain-Analysis/blob/main/images/Shipping%20performance.png)
 
 ---
 
